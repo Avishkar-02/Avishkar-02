@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avishkar-02
+- 👋 Hi, I’m Avishkar
 - 👀 I’m interested in Data Science , Machine learning and Artificial Intelligence 
 - 🌱 I’m currently studying Msc IT(AI) 
 - 💞️ I’m looking to collaborate on Data Science , Machine learning and Artificial Intelligence 
