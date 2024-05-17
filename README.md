@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Avishkar-02
+- 👀 I’m interested in Data Science , Machine learning and Artificial Intelligence 
+- 🌱 I’m currently studying Msc IT(AI) 
+- 💞️ I’m looking to collaborate on Data Science , Machine learning and Artificial Intelligence 
+- 📫 How to reach me Email:- savishkar2003@gmail.com
